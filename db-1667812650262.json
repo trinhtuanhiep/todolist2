@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nguyễn Đức Thắng"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Đức Phúc Anh"
+    },
+    {
+      "id": 3,
+      "name": "Đinh Thị Phương Dung"
+    },
+    {
+      "id": 4,
+      "name": "Nguyễn Thị Bích Hường"
+    }
+  ]
+}
