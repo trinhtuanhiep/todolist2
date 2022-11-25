@@ -19,6 +19,7 @@ export class studentContainer extends Component {
     }
 }
 const mapStateToProps = (store) => {
+    console.log(store)
      // định nghĩa ra các props gắn dữ liệu từ store vào
     return {
         listStudent: store.student.listStudent,
